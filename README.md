@@ -1,5 +1,5 @@
-<img align="center" style="padding-left:6000 px ;" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif" alt="">
-<h2 align="left">Hi, I'm Alisher Aslonov <img align="right" style="padding-right:71 %;" height="25" src="https://i0.wp.com/blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"/>  </h2>
+<img  src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif" alt="">
+<h2 align="left">Hi, I'm Alisher Aslonov</h2>
 
 
 ###
